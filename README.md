@@ -46,4 +46,8 @@ This package uses the same algorithms to determine the base-colours for the UI e
 - ST does not acknowledge changes to Widget Schemes on the fly.
     - If support for modification and re-loading of Widget Schemes on the fly is added, it'll be awesome! That'll make this package a tiny bit simpler but more importantly, it'll make ST's behaviour more consistent.
 
+
+### License
+Theme - Rainbow is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License].
+  [Creative Commons Attribution-ShareAlike 3.0 License]: https://creativecommons.org/licenses/by-sa/3.0/
   [Soda Theme]: http://buymeasoda.com/
